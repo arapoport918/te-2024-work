@@ -1,0 +1,49 @@
+Bug 1
+-----
+Test that demonstrates problem:
+    getTimesheetsByEmployeeId_with_valid_employee_id_returns_list_of_timesheets_for_employee
+Expected output:
+    getTimesheetByEmployeeId(1) returns 2 for List<Timesheet> timesheets.size()
+    getTimesheetByEmployeeId(2) also returns 2 for List<Timesheet> timesheets.size()
+Actual output:
+    getTimesheetByEmployeeId(1) returns 1 for List<Timesheet> timesheets.size()
+    getTimesheetByEmployeeId(2) also returns 1 for List<Timesheet> timesheets.size()
+How did you fix this bug?
+    Replaced if(results.next()) with while(results.next())
+
+Bug 2
+-----
+Test that demonstrates problem:
+    getTimesheetsByProjectId_with_valid_id_returns_list_of_all_timesheets_for_project
+Expected output:
+    getTimesheetByProjectId(1) returns 3 for List<Timesheet> timesheets.size()
+    getTimesheetByProjectId(2) returns 1 for List<Timesheet> timesheets.size()
+Actual output:
+    getTimesheetByProjectId(1) returns 2 for List<Timesheet> timesheets.size()
+    getTimesheetByProjectId(2) also returns 2 for List<Timesheet> timesheets.size()
+How did you fix this bug?
+    Adjusted the sql String by replacing "WHERE employee_id = ?" with "WHERE project_id = ?"
+
+
+Bug 3
+-----
+Test that demonstrates problem:
+    updateTimesheet_updates_timesheet
+Expected output:
+
+Actual output:
+
+How did you fix this bug?
+
+
+Bug 4
+-----
+Test that demonstrates problem:
+    getBillableHours_returns_correct_total
+Expected output:
+    getBillableHours(2, 2) returns 0 for sum of billable hours for queries where billable is true
+Actual output:
+    getBillableHours(2, 2) returns 2.0 for sum of billable hours for queries where billable is true
+How did you fix this bug?
+    Added extra condition to sql statement String that says the following: "AND billable = True;"
+

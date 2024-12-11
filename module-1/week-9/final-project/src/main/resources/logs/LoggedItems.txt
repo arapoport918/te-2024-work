@@ -1,0 +1,621 @@
+*Exhalation
+ - Written by: Ted Chiang
+ - Published by: 2008-11-15
+ - Id: 15a81128-8753-4989-bcef-5d893ed3a2bb
+
+ Created on: 2023-11-28*socket wrench
+ - Manufactured by: Craftsman
+ - Quantity: 1
+ - Id: 06c2bf80-950f-4fde-ae06-759095c54cc9
+
+ Created on: 2023-11-28*socket wrench
+ - Manufactured by: DeWalt
+ - Quantity: 2
+ - Id: c4f55583-a858-4811-899b-fd5546b0c191
+
+ Created on: 2023-11-28*Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch
+ - Written by: Terry Pratchett & Neil Gaiman
+ - Published by: 1990-05-01
+ - Id: b1468e83-c752-480a-ad2b-59b8c2446347
+
+ Created on: 2023-11-28*Foundation
+ - Written by: Isaac Asimov
+ - Published by: 1951-08-30
+ - Id: c0e98c4a-65f4-4d0f-a386-d912f4320987
+
+ Created on: 2023-11-28*Foundation's Edge
+ - Written by: Isaac Asimov
+ - Published by: 1982-10-28
+ - Id: 114a8409-ff56-4819-986e-c6c664f410a6
+
+ Created on: 2023-11-28*Home Alone
+ - Directed by: Chris Columbus
+ - Released: 1990-11-16
+ - Id: 0fdc1954-bef5-4814-b621-3dfc6f32b6bf
+
+ Created on: 2023-11-28*The Hunger Games
+ - Written by: Suzanne Collins
+ - Published by: 2008-09-14
+ - Id: 6fedba09-8e68-49b3-8744-ded6879612e3
+
+ Created on: 2023-11-28*Going Postal
+ - Written by: Terry Pratchett
+ - Published by: 2004-09-25
+ - Id: 82eff8ed-98f8-4be4-a19e-c46783340511
+
+ Created on: 2023-11-28*Jurassic Park
+ - Directed by: Steven Spielberg
+ - Released: 1993-06-11
+ - Id: 1347036b-8fca-47e7-8d09-e0c518616e33
+
+ Created on: 2023-11-28*power drill
+ - Manufactured by: DeWalt
+ - Quantity: 2
+ - Id: bb5617b9-1892-4dec-9707-4e1a89ce0322
+
+ Created on: 2023-11-28*Making Money
+ - Written by: Terry Pratchett
+ - Published by: 2007-09-18
+ - Id: 10b0e921-88ed-40cc-b022-e6076d06a59d
+
+ Created on: 2023-11-28*hand saw
+ - Manufactured by: Craftsman
+ - Quantity: 1
+ - Id: 15b55985-37aa-4bed-a215-f3c7ab8b3143
+
+ Created on: 2023-11-28*hammer
+ - Manufactured by: Craftsman
+ - Quantity: 1
+ - Id: 93c9aead-5971-4d3f-a3e0-db7d8c788d91
+
+ Created on: 2023-11-28*stapler
+ - Manufactured by: DeWalt
+ - Quantity: 2
+ - Id: a7273a45-06b8-4e5b-882c-96fb2a48139b
+
+ Created on: 2023-11-28*Stranger in a Strange Land
+ - Written by: Robert A. Heinlein
+ - Published by: 1961-06-01
+ - Id: 9c468c62-47b6-43ca-a074-11631f652300
+
+ Created on: 2023-11-28*Exhalation
+ - Written by: Ted Chiang
+ - Published by: 2008-11-15
+ - Id: ee899e72-7be0-488c-88b1-722a132b13fb
+
+ Created on: 2023-11-28*Memento
+ - Directed by: Christopher Nolan
+ - Released: 2000-10-11
+ - Id: c7be0e47-8085-4305-8dd1-394b556383b0
+
+ Created on: 2023-11-28*Inception
+ - Directed by: Christopher Nolan
+ - Released: 2010-07-15
+ - Id: 453b8855-504a-4e27-a1c6-4ae402a86425
+
+ Created on: 2023-11-28*Interstellar
+ - Directed by: Christopher Nolan
+ - Released: 2014-11-05
+ - Id: 880578e1-3fc1-4b86-aceb-f7f444e48c8c
+
+ Created on: 2023-11-28*Rouge One
+ - Directed by: Gareth Edwards
+ - Released: 2016-12-16
+ - Id: 62b8781b-7c2b-4d53-bb2d-592c431b8909
+
+ Created on: 2023-11-28*Contact
+ - Directed by: Robert Zemeckis
+ - Released: 1997-07-11
+ - Id: be73ca94-0063-4493-a235-46b2e526dec3
+
+ Created on: 2023-11-28*Jurassic Park
+ - Directed by: Steven Spielberg
+ - Released: 1993-06-11
+ - Id: a229cdee-e199-407d-949e-51d92af32947
+
+ Created on: 2023-11-28*The Hitchhiker's Guide to the Galaxy
+ - Directed by: Garth Jennings
+ - Released: 2005-04-28
+ - Id: 743a1232-c41a-4063-b393-5aaa42ebfb20
+
+ Created on: 2023-11-28*Star Wars
+ - Directed by: George Lucas
+ - Released: 1977-05-25
+ - Id: 7a2b8dd2-966b-4966-b06c-d916df9b0374
+
+ Created on: 2023-11-28*Star Trek
+ - Directed by: J.J. Abrams
+ - Released: 2009-05-06
+ - Id: d338cf5a-e2a7-4410-b561-faa9762863b9
+
+ Created on: 2023-11-28*Star Trek Into Darkness
+ - Directed by: J.J. Abrams
+ - Released: 2013-05-05
+ - Id: ec3b90d4-95a4-496e-bd92-dbd106ed304e
+
+ Created on: 2023-11-28*power drill
+ - Manufactured by: DeWalt
+ - Quantity: 1
+ - Id: d08593bf-9545-4982-b410-140bac70ee2c
+
+ Created on: 2023-11-28*socket wrench
+ - Manufactured by: DeWalt
+ - Quantity: 3
+ - Id: 1f1c570a-d0d4-41d2-b63d-0725d92ce69a
+
+ Created on: 2023-11-28*Forrest Gump
+ - Directed by: Robert Zemeckis
+ - Released: 1994-07-06
+ - Id: 94b023fb-c367-41f5-b1b5-7f8043a2b078
+
+ Created on: 2023-11-28*Cast Away
+ - Directed by: Robert Zemeckis
+ - Released: 2000-12-22
+ - Id: 65b5d743-973d-4924-9fac-16faca5ebb7c
+
+ Created on: 2023-11-28*Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch
+ - Written by: Terry Pratchett & Neil Gaiman
+ - Published by: 1990-05-01
+ - Id: 29c49c6d-e633-4d36-b9ee-242e30420fe4
+
+ Created on: 2023-11-28*The Fifth Element
+ - Directed by: Luc Besson
+ - Released: 1997-05-02
+ - Id: 2f5d0389-2679-4b5b-af74-e309b37d171c
+
+ Created on: 2023-11-28*Close Encounters of the Third Kind
+ - Directed by: Steven Spielberg
+ - Released: 1977-11-18
+ - Id: 93fb5fb7-406c-4703-a253-61ba295efe67
+
+ Created on: 2023-11-28*The Hitchhiker's Guide to the Galaxy
+ - Written by: Douglas Adams
+ - Published by: 1979-10-12
+ - Id: 2c64f44d-a698-43e0-8836-246df5a625e1
+
+ Created on: 2023-11-28*Animal Farm
+ - Written by: George Orwell
+ - Published by: 1945-08-17
+ - Id: 022f462d-eb07-4cda-9cab-ecdd6aa8a852
+
+ Created on: 2023-11-28*Star Wars
+ - Directed by: George Lucas
+ - Released: 1977-05-25
+ - Id: 837940a5-2980-435c-a0cf-c1f3c4291bb8
+
+ Created on: 2023-11-28*Jurassic Park
+ - Directed by: Steven Spielberg
+ - Released: 1993-06-11
+ - Id: 04cb4c0b-336d-44ee-b9a8-f3a243600ac8
+
+ Created on: 2023-11-28*Jurassic Park
+ - Written by: Michael Crichton
+ - Published by: 1990-11-20
+ - Id: 8df8e08c-7500-4d92-90ce-74f1ffbd70c4
+
+ Created on: 2023-11-28*The Hitchhiker's Guide to the Galaxy
+ - Written by: Douglas Adams
+ - Published by: 1979-10-12
+ - Id: 88040090-8cfa-44c9-bd65-60030e6aacc8
+
+ Created on: 2023-11-28*The Hitchhiker's Guide to the Galaxy
+ - Directed by: Garth Jennings
+ - Released: 2005-04-28
+ - Id: 33e98c18-761d-45a1-a3cd-29fc8056d5f7
+
+ Created on: 2023-11-28*stapler
+ - Manufactured by: Swingline
+ - Quantity: 2
+ - Id: 34bfdb01-9823-4ab4-957f-70bacabe9f8b
+
+ Created on: 2023-11-28*Oh, the Places You'll Go!
+ - Written by: Dr. Seuss
+ - Published by: 1990-01-22
+ - Id: 79533635-19f7-49eb-aa19-bfb65c57bed4
+
+ Created on: 2023-11-28*Finding Nemo
+ - Directed by: Andrew Stanton
+ - Released: 2003-05-30
+ - Id: 4348d6f0-e411-4a6b-a3d3-dae269a65d14
+
+ Created on: 2023-11-28*WALL·E
+ - Directed by: Andrew Stanton
+ - Released: 2008-06-22
+ - Id: d8875746-3803-4939-9a7e-b2cb796aa246
+
+ Created on: 2023-11-28*Coco
+ - Directed by: Lee Unkrich
+ - Released: 2017-10-27
+ - Id: 263dfdfa-6492-4188-a984-8048675c0391
+
+ Created on: 2023-11-28*Toy Story 3
+ - Directed by: Lee Unkrich
+ - Released: 2010-06-16
+ - Id: 6cb4829c-58fa-4e37-a010-0c8bd6f5ab38
+
+ Created on: 2023-11-28*Stranger in a Strange Land
+ - Written by: Robert A. Heinlein
+ - Published by: 1961-06-01
+ - Id: 744cb891-734f-41db-8a9f-e5f91507969c
+
+ Created on: 2023-11-28*The Moon is a Harsh Mistress
+ - Written by: Robert A. Heinlein
+ - Published by: 1966-06-02
+ - Id: c208348a-0bfb-4cb0-b30f-9a9259b36ea2
+
+ Created on: 2023-11-28*The Polar Express
+ - Directed by: Robert Zemeckis
+ - Released: 2004-11-10
+ - Id: b22d17fd-8adc-4f6f-b1fc-75bdd499acd6
+
+ Created on: 2023-11-28*Shrek
+ - Directed by: Andrew Adamson
+ - Released: 2001-05-18
+ - Id: 2b3f9c9b-fee0-48d4-b1d4-7aee492f7367
+
+ Created on: 2023-11-28*Going Postal
+ - Written by: Terry Pratchett
+ - Published by: 2004-09-25
+ - Id: 67e4677e-c98f-4ce1-852e-3a69f641f004
+
+ Created on: 2023-11-28*Home Alone
+ - Directed by: Chris Columbus
+ - Released: 1990-11-16
+ - Id: 5eb96754-e51e-4ac5-9b4a-1f1817de5ace
+
+ Created on: 2023-11-28*hand saw
+ - Manufactured by: Craftsman
+ - Quantity: 1
+ - Id: 70712e3b-f4d5-4ec9-ae4f-f27a76bf6ac5
+
+ Created on: 2023-11-28*Raising Steam
+ - Written by: Terry Pratchett
+ - Published by: 2013-11-07
+ - Id: 9256386c-e6b9-4ca0-bd2f-5df2e1f98103
+
+ Created on: 2023-11-28*Back to the Future Part III
+ - Directed by: Robert Zemeckis
+ - Released: 1990-05-25
+ - Id: 7bfc82a1-c366-4517-bba6-e5fe2f0795a4
+
+ Created on: 2023-11-28*Making Money
+ - Written by: Terry Pratchett
+ - Published by: 2007-09-18
+ - Id: e433319d-3660-4367-8b15-fddc2965b564
+
+ Created on: 2023-11-28*Back to the Future
+ - Directed by: Robert Zemeckis
+ - Released: 1985-07-03
+ - Id: 7c03315c-9491-4605-823b-457292d298d9
+
+ Created on: 2023-11-28*Back to the Future Part II
+ - Directed by: Robert Zemeckis
+ - Released: 1989-11-22
+ - Id: f4901b37-1c86-4e89-a71e-315be6911802
+
+ Created on: 2023-11-28*The Fellowship of the Ring
+ - Written by: J. R. R. Tolkien
+ - Published by: 1954-07-29
+ - Id: 002afb6a-86d6-4e2c-8161-b2d591e5b665
+
+ Created on: 2023-11-28*hammer
+ - Manufactured by: Craftsman
+ - Quantity: 1
+ - Id: 009c362e-6e82-4878-962f-ec4eacfe27c8
+
+ Created on: 2023-11-28*The Two Towers
+ - Written by: J. R. R. Tolkien
+ - Published by: 1954-11-11
+ - Id: c3d93658-ae2e-43b9-85af-a27d00846ae9
+
+ Created on: 2023-11-28*The Return of the King
+ - Written by: J. R. R. Tolkien
+ - Published by: 1955-10-20
+ - Id: 1d23e5d1-c560-4a3f-a4ed-9546f82587bc
+
+ Created on: 2023-11-28*Who Framed Roger Rabbit
+ - Directed by: Robert Zemeckis
+ - Released: 1988-06-21
+ - Id: 8b289ad8-afde-4fce-bb73-5aa50d25127b
+
+ Created on: 2023-11-28*The Lord of the Rings: The Fellowship of the Ring
+ - Directed by: Peter Jackson
+ - Released: 2001-12-18
+ - Id: 0ad71fdf-781c-499d-b6bc-fe730d7d4fe4
+
+ Created on: 2023-11-28*The Lord of the Rings: The Two Towers
+ - Directed by: Peter Jackson
+ - Released: 2002-12-18
+ - Id: bb881408-e07e-415d-80bc-d2f3bc299359
+
+ Created on: 2023-11-28*The Lord of the Rings: The Return of the King
+ - Directed by: Peter Jackson
+ - Released: 2003-12-01
+ - Id: 6b6a81bc-62ff-4a8a-9c82-cbef7a424f25
+
+ Created on: 2023-11-28*hammer
+ - Manufactured by: Craftsman
+ - Quantity: 1
+ - Id: f3b05bc4-0c75-4cbb-b101-1ec64b3a8e34
+
+ Created on: 2023-11-28*Rouge One
+ - Directed by: Gareth Edwards
+ - Released: 2016-12-16
+ - Id: 02c4a916-d7b6-4b24-b084-dd4ba12f68fa
+
+ Created on: 2023-11-28*The Hitchhiker's Guide to the Galaxy
+ - Directed by: Garth Jennings
+ - Released: 2005-04-28
+ - Id: ec9e2fdc-714e-439d-bbd7-4e1465781821
+
+ Created on: 2023-11-28*Oh, the Places You'll Go!
+ - Written by: Dr. Seuss
+ - Published by: 1990-01-22
+ - Id: e0148ee9-a82b-4819-a7a2-8cf1d059fb7f
+
+ Created on: 2023-11-28*The Fellowship of the Ring
+ - Written by: J. R. R. Tolkien
+ - Published by: 1954-07-29
+ - Id: 6836518b-997c-441d-901a-b757cd1eaf08
+
+ Created on: 2023-11-28*The Two Towers
+ - Written by: J. R. R. Tolkien
+ - Published by: 1954-11-11
+ - Id: 2ab948ae-9b07-496f-8e64-8ad83bfc6711
+
+ Created on: 2023-11-28*The Return of the King
+ - Written by: J. R. R. Tolkien
+ - Published by: 1955-10-20
+ - Id: 904efb4b-3330-471c-8a79-c26096c1cda7
+
+ Created on: 2023-11-28*Star Trek
+ - Directed by: J.J. Abrams
+ - Released: 2009-05-06
+ - Id: 67d64dbf-6bd1-4721-bafd-15144eed58d6
+
+ Created on: 2023-11-28*Star Trek II: The Wrath of Khan
+ - Directed by: Nicholas Meyer
+ - Released: 1982-06-04
+ - Id: 59dd8dfe-6250-4c80-9b98-b5c63c201d35
+
+ Created on: 2023-11-28*Star Trek Into Darkness
+ - Directed by: J.J. Abrams
+ - Released: 2013-05-05
+ - Id: 94d65ef8-25fc-4ebe-8b29-67ea982a07fb
+
+ Created on: 2023-11-28*The Hunger Games
+ - Written by: Suzanne Collins
+ - Published by: 2008-09-14
+ - Id: c5368f1e-27d8-428d-9ebe-7176a6a744ae
+
+ Created on: 2023-11-28*The Lord of the Rings: The Return of the King
+ - Directed by: Peter Jackson
+ - Released: 2003-12-01
+ - Id: 24c6944b-b8e7-4244-8d3f-b51062630735
+
+ Created on: 2023-11-28*The Lord of the Rings: The Two Towers
+ - Directed by: Peter Jackson
+ - Released: 2002-12-18
+ - Id: 27e4a48b-5453-4a12-a2a2-e62c746a232e
+
+ Created on: 2023-11-28*The Lord of the Rings: The Fellowship of the Ring
+ - Directed by: Peter Jackson
+ - Released: 2001-12-18
+ - Id: 8b3da962-d943-484f-9593-d8821a92483e
+
+ Created on: 2023-11-28*Memento
+ - Directed by: Christopher Nolan
+ - Released: 2000-10-11
+ - Id: 8327f493-0090-4a27-a366-5137a8829d66
+
+ Created on: 2023-11-28*Inception
+ - Directed by: Christopher Nolan
+ - Released: 2010-07-15
+ - Id: 6a33809f-8eaa-4a6c-abb5-009164dff2bd
+
+ Created on: 2023-11-28*Piranesi
+ - Written by: Susanna Clarke
+ - Published by: 2020-09-15
+ - Id: 25c0b74e-b289-4a62-adc7-1f70d88f2104
+
+ Created on: 2023-11-28*hand saw
+ - Manufactured by: Craftsman
+ - Quantity: 1
+ - Id: 93fb4819-f1b1-44fe-b001-5e7a169800cb
+
+ Created on: 2023-11-28*Once Upon an Algorithm
+ - Written by: Martin Erwig
+ - Published by: 2017-08-11
+ - Id: e709a455-e436-4a42-bc75-7fbed4ad27f6
+
+ Created on: 2023-11-28*socket wrench
+ - Manufactured by: DeWalt
+ - Quantity: 1
+ - Id: 1b7bdac5-07d8-4869-95a4-132916c22a11
+
+ Created on: 2023-11-28*Rouge One
+ - Directed by: Gareth Edwards
+ - Released: 2016-12-16
+ - Id: b79342ff-8baa-489f-a2b3-89d512cf9f12
+
+ Created on: 2023-11-28*Star Wars
+ - Directed by: George Lucas
+ - Released: 1977-05-25
+ - Id: 2d38c46b-8723-4e67-a2a1-f0f877d6aa65
+
+ Created on: 2023-11-28*pry bar
+ - Manufactured by: Stanley
+ - Quantity: 2
+ - Id: c53213ce-e4cd-4be5-b7c2-d6177fdd14c1
+
+ Created on: 2023-11-28*Back to the Future
+ - Directed by: Robert Zemeckis
+ - Released: 1985-07-03
+ - Id: 881fe619-3deb-4981-bd35-fee822f94941
+
+ Created on: 2023-11-28*Back to the Future Part II
+ - Directed by: Robert Zemeckis
+ - Released: 1989-11-22
+ - Id: cf9d5d9b-472a-40fd-8d2d-1c267a59b184
+
+ Created on: 2023-11-28*Back to the Future Part III
+ - Directed by: Robert Zemeckis
+ - Released: 1990-05-25
+ - Id: 21bb08d6-ce93-4888-9a21-e4933d5df614
+
+ Created on: 2023-11-28*hammer
+ - Manufactured by: Vaughan
+ - Quantity: 2
+ - Id: dd13fc00-c34c-4b51-9462-bbda6bfe5dae
+
+ Created on: 2023-11-28*hammer
+ - Manufactured by: Craftsman
+ - Quantity: 1
+ - Id: e34477ac-e7b1-4345-8860-5c33b8a380bc
+
+ Created on: 2023-11-28*The Fifth Element
+ - Directed by: Luc Besson
+ - Released: 1997-05-02
+ - Id: 14d0e0c8-0488-4696-a912-35f73dadcf91
+
+ Created on: 2023-11-28*hand saw
+ - Manufactured by: Stanley
+ - Quantity: 3
+ - Id: 928dbb53-6942-482e-a892-be0bbd07389c
+
+ Created on: 2023-11-28*The Lord of the Rings: The Fellowship of the Ring
+ - Directed by: Peter Jackson
+ - Released: 2001-12-18
+ - Id: 13c513f0-37dd-4dcf-b050-822d2664a92c
+
+ Created on: 2023-11-28*The Lord of the Rings: The Two Towers
+ - Directed by: Peter Jackson
+ - Released: 2002-12-18
+ - Id: 6ddf0837-5673-4443-a66c-a03a827277d9
+
+ Created on: 2023-11-28*The Lord of the Rings: The Return of the King
+ - Directed by: Peter Jackson
+ - Released: 2003-12-01
+ - Id: 24672daf-2e7b-4787-a081-300e3046cb21
+
+ Created on: 2023-11-28*Close Encounters of the Third Kind
+ - Directed by: Steven Spielberg
+ - Released: 1977-11-18
+ - Id: 1655ac85-8da7-4331-8476-c67132290dd1
+
+ Created on: 2023-11-28*power drill
+ - Manufactured by: Milwaukee
+ - Quantity: 2
+ - Id: c0f03422-21eb-4a8f-911b-75c609a0890f
+
+ Created on: 2023-11-28*stapler
+ - Manufactured by: DeWalt
+ - Quantity: 2
+ - Id: f638047f-6edf-41f2-8c59-a23c5ba40b57
+
+ Created on: 2023-11-28*socket wrench
+ - Manufactured by: DeWalt
+ - Quantity: 2
+ - Id: bc648922-34d0-45f8-82a8-45dc8b120908
+
+ Created on: 2023-11-28*Star Trek Into Darkness
+ - Directed by: J.J. Abrams
+ - Released: 2013-05-05
+ - Id: dd9a8a29-c353-4f45-93f1-709433b351fb
+
+ Created on: 2023-11-28*Jurassic Park
+ - Directed by: Steven Spielberg
+ - Released: 1993-06-11
+ - Id: dcf309b5-c9d7-4ac4-947b-05a43f19b76b
+
+ Created on: 2023-11-28*Raising Steam
+ - Written by: Terry Pratchett
+ - Published by: 2013-11-07
+ - Id: 4bf37982-d2d7-46ab-9462-674fff5056a9
+
+ Created on: 2023-11-28*Making Money
+ - Written by: Terry Pratchett
+ - Published by: 2007-09-18
+ - Id: 6e6b5145-9f8d-45d7-88ed-6b28a3d48d73
+
+ Created on: 2023-11-28*Going Postal
+ - Written by: Terry Pratchett
+ - Published by: 2004-09-25
+ - Id: 96b5aa20-ad17-4337-bc4f-72ecaf3d04fb
+
+ Created on: 2023-11-28*Exhalation
+ - Written by: Ted Chiang
+ - Published by: 2008-11-15
+ - Id: 0f6bb91a-12ea-4fa5-b1a2-120c1cf7ff80
+
+ Created on: 2023-11-28*Jurassic Park
+ - Written by: Michael Crichton
+ - Published by: 1990-11-20
+ - Id: daab737d-6475-460c-ad5b-b8604e0ed402
+
+ Created on: 2023-11-28*Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch
+ - Written by: Terry Pratchett & Neil Gaiman
+ - Published by: 1990-05-01
+ - Id: ce83d2bb-a2aa-48a9-bd8f-a8a8d1c70d81
+
+ Created on: 2023-11-28*The Hitchhiker's Guide to the Galaxy
+ - Written by: Douglas Adams
+ - Published by: 1979-10-12
+ - Id: 9660dc4b-df60-4bb1-810c-c165bdc63138
+
+ Created on: 2023-11-28*The Hitchhiker's Guide to the Galaxy
+ - Directed by: Garth Jennings
+ - Released: 2005-04-28
+ - Id: 9f1c4b09-5b1f-4004-9977-1947146c716a
+
+ Created on: 2023-11-28*The Two Towers
+ - Written by: J. R. R. Tolkien
+ - Published by: 1954-11-11
+ - Id: 61202200-3d9f-4d29-b548-d97f9eb85d8c
+
+ Created on: 2023-11-28*The Fellowship of the Ring
+ - Written by: J. R. R. Tolkien
+ - Published by: 1954-07-29
+ - Id: f7d03d02-52e7-40ab-9d53-7384fd0d6555
+
+ Created on: 2023-11-28*The Return of the King
+ - Written by: J. R. R. Tolkien
+ - Published by: 1955-10-20
+ - Id: 63ec0b39-434e-4f5e-976c-3d4873409289
+
+ Created on: 2023-11-28*Animal Farm
+ - Written by: George Orwell
+ - Published by: 1945-08-17
+ - Id: 1d68b094-2935-4f5b-afb8-f9ff295e8f3e
+
+ Created on: 2023-11-28*Racing the Beam
+ - Written by: Nick Montfort and Ian Bogost
+ - Published by: 2009-03-01
+ - Id: a4aeb22f-96b0-4608-9f8b-77b072e84b4a
+
+ Created on: 2023-11-28*Programming for the Puzzled
+ - Written by: Srini Devadas
+ - Published by: 2017-11-09
+ - Id: 35a0e0dc-413b-40a9-b587-a4c62a5d054c
+
+ Created on: 2023-11-28*Once Upon an Algorithm
+ - Written by: Martin Erwig
+ - Published by: 2017-08-11
+ - Id: 9515d97f-566b-4c78-abf2-95df63cbc93f
+
+ Created on: 2023-11-28*Home Alone
+ - Directed by: Chris Columbus
+ - Released: 1990-11-16
+ - Id: 87c03a58-ef99-4795-bd03-e8f832fb9e61
+
+ Created on: 2023-11-28*The Moon is a Harsh Mistress
+ - Written by: Robert A. Heinlein
+ - Published by: 1966-06-02
+ - Id: 3b759bdc-5a1b-4e04-90be-0f1b0f4b6e05
+
+ Created on: 2023-11-28*Stranger in a Strange Land
+ - Written by: Robert A. Heinlein
+ - Published by: 1961-06-01
+ - Id: 406df4f1-d511-467c-854b-8deefd0c75cb
+
+ Created on: 2023-11-28

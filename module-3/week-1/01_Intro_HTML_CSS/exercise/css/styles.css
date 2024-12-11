@@ -1,0 +1,47 @@
+* {
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+table {
+    color: white;
+    border-style: solid;
+    border-color: red;
+}
+
+th {
+    border-style: solid;
+    border-color: red;
+    border-width: 1px;
+}
+
+td {
+    border-style: solid;
+    border-color: red;
+    border-width: 1px;
+}
+
+img {
+    width: 400px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+blockquote {
+    font-style: italic;
+}
+
+li {
+    color: red;
+}
+
+a:hover {
+    color: red;
+}

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Information Form</title>
+    <link rel="stylesheet" href="css/infostyles.css"/>
+</head>
+<body>
+    <form action="http://127.0.0.1:5500/exercise/info.html" method="post">
+        <label for="name">Name:</label>
+        <input  id="name" name="name" type="text" required />
+        <br>
+
+        <label for="email">Email:</label>
+        <input id="email" name="email" type="email" required />
+        <br>
+        
+        <label for="date-of-birth">Date of Birth:</label>
+        <input id="date-of-birth" name="date-of-birth" type="date" />
+        <br>
+        
+        <label for="favorite-color">Favourite Colour:</label>
+        <input id="favorite-color" name="favorite-color" type="color" />
+        <br>
+        
+        <label for="lucky-number">Lucky Number:</label>
+        <input id="lucky-number" name="lucky-number" type="number" />
+        <br>
+        
+        <label for="confirmation">I confirm that the information above is correct:</label>
+        <input id="confirmation" name="confirmation" type="checkbox" />
+        <br>
+
+        <button id="submit" type="submit" value="submit">Submit</button>
+    </form>
+</body>
+</html>

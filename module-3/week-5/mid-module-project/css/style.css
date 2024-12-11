@@ -1,0 +1,142 @@
+/*
+    style.css - this stylesheet is linked from index.html to apply styles to the products home page.
+    Add all of your custom styles here.
+*/
+
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+}
+
+/* Requirement 1: Create header */
+header {
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    margin-bottom: 5px;
+}
+
+#logo {
+    margin-top: 5px;
+}
+
+/* Requirement 2: Create nav */
+body, nav, section, #body-header, article, footer {
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    padding: 10px; 
+    margin-top: 5px;
+}
+
+#body-header {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-areas: 
+        "prod txt txt search";
+}
+
+h1 {
+    grid-area: prod;
+    font-size: 24px;
+}
+
+#text {
+    grid-area: txt;
+}
+
+input {
+    float: right;
+}
+
+.position {
+    float: inline-end;
+}
+
+#hc {
+    text-align: left;
+    font-weight: bold;
+}
+
+#message-box {
+    text-align: center;
+    font-weight: bold;
+}
+
+#logout {    
+    text-align: right;
+    font-weight: bold;
+}
+
+/* Requirement 3: Create footer */
+footer {
+    bottom: 0;
+    margin: 10px;
+}
+
+/* Requirement 4: Enable main scrolling */
+main {
+    overflow: scroll;
+}
+
+/* Requirement 5: Style the product card collection */
+#product-cards {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 20px;
+    min-height: 1vh;
+    min-width: 1vh
+}
+
+/* Requirement 6: Style the product cards */
+.product-card {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-areas: 
+        "sku . . price"
+        "title title . ."
+        "img img img img"
+        "img img img img"
+        "img img img img"
+        "icon . . .";
+    margin: 20px;
+}
+
+.sku {
+    grid-area: sku;
+}
+
+.price {
+    grid-area: price;
+}
+
+.product-name {
+    grid-area: title;
+    font-size: 14px;
+}
+
+.product-image {
+    grid-area: img;
+}
+
+.cart {
+    grid-area: icon;
+}
+
+/* Position the icon in the search bar
+.position {
+    position: relative;
+    left: 83.5%;
+}
+
+input {
+    position: relative;
+    left: 85%;
+} */
+
+.product-image > img {
+    border-radius: 20%;
+}
+
