@@ -12,7 +12,7 @@ public class Exercises {
 	 */
 	public String helloName(String name) {
 		String greeting = "Hello " + name + "!";
-		
+
 		return greeting;
 	}
 
@@ -457,25 +457,23 @@ public class Exercises {
 	public int last2(String str) {
 		int counter = 0;
 
-//		for (int i = 0; i < str.length(); i++) {
-//			String last2 = str.substring(str.length() - 2, str.length());
-//			for (int j = 0; j < str.length() - 2; j++) {
-//				if (str.substring(j, j+ 2).equals(last2)) {
-//					counter++;
-//				}
-//			}
-//		}
-
+		// If the string length is less than 2, return 0 (not enough characters for a substring of length 2)
+		if (str.length() < 2) {
+			return 0;
+		}
+		// Get the last 2 characters of the string
 		String last2 = str.substring(str.length() - 2);
-		str = str.substring(0, str.lastIndexOf(last2));
 
-		for (int i = 0; i < str.length(); i++) {
-			if (str.contains(last2)) {
+		// Loop through the string, stopping at the second to last character
+		for (int i = 0; i < str.length() - 2; i++) {
+			// Extract the current substring of length 2
+			String sub = str.substring(i, i + 2);
+
+			// Check if the substring matches the last 2 characters
+			if (sub.equals(last2)) {
 				counter++;
-				str = str.substring(str.indexOf(last2) + 1);
 			}
 		}
-
 		return counter;
 	}
 
